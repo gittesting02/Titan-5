@@ -1,0 +1,10 @@
+apiVersion: v1
+kind: Namespace
+metadata:
+  name: cgdfgg-dev
+  labels:
+    environment-id: env_bfb899c5-5ffa-4a40-9b94-c4ac678fd2b3
+    project-id: project_a73d7d07-0632-4426-9f57-b927c5072580
+    project-name: cgdfgg
+    environment-name: dev
+    organization-id: org_148c18cf-e442-4aa8-ace9-b84a9946c8be
